@@ -18,7 +18,7 @@ const Homepage = () => {
           Library Management System
         </h1>
         <p class="lead text-center" style={{color: "#FFF4A2",fontSize:35}}>
-          Designed By Elumalai
+          Designed By Rajaguru
           <span class="material-symbols-outlined">deployed_code</span>
         </p>
       </div>
